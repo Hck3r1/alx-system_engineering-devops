@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-=======
-su betty
->>>>>>> 373b950f344d6ff7c08d83b5b6701c48bf11a5de
 su betty
